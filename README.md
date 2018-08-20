@@ -1,3 +1,7 @@
 # hello-world
-My first Repository
+My first Repository.
 I`m beginner!
+Second try!
+
+
+
